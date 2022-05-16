@@ -5,9 +5,43 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(25, 24, 24, 0.714);
+  color: antiquewhite;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:link {
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+a:visited {
+  color: antiquewhite;
+}
+
+a:hover {
+  color: rgb(143, 93, 27);
+}
+
+a:active {
+  color: blue;
+}
+
+p{
+  text-indent: 5%;
+  text-align:justify ;
+  margin: 2%;
+}
+
+
+h2{
+  text-align: center;
 }

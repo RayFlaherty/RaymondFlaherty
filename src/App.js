@@ -1,24 +1,56 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import Nav from "./Components/Elements/Nav/Nav";
+import "./App.css";
+import AboutMe from "./Components/Elements/AboutMe/AboutMe";
+import Gallery from "./Components/Elements/Gallery/Gallery";
+import Education from "./Components/Elements/Education/Education";
+import Contact from "./Components/Elements/Contact/Contact";
+import Projects from "./Components/Elements/Projects/Projects";
+import Footer from "./Components/Elements/Footer/Footer";
+
+
 
 function App() {
+// FUTURE TITLE DISPLAY: Needs Functionality
+
+  // const [navDisplay] = useState([
+  //   {
+  //     id: "e1",
+  //     title: "About Me",
+  //     display: <AboutMe/>
+  //   },
+  //   {
+  //     id: "e2",
+  //     title: "Work History and Education",
+  //   },
+  //   {
+  //     id: "e3",
+  //     title: "Projects",
+  //   },
+  //   {
+  //     id: "e4",
+  //     title: "Contact Me",
+  //   },
+  // ]);
+
+  // const [currentNavDisplay, setCurrentNavDisplay] = useState(navDisplay[0]);
+ 
+ 
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+      <Nav
+        // items={navDisplay}
+        // setCurrentNavDisplay={setCurrentNavDisplay}
+        // currentNavDisplay={currentNavDisplay}
+      ></Nav>
+      <Gallery/> 
+       <AboutMe/>
+      <Education />
+      <Contact />
+      <Projects/>
+      <Footer/>
+  </div>
   );
 }
 
