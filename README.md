@@ -23,7 +23,7 @@ Secondly, attached to the project is a "Server" folder. Inside, you will find I 
 
 
 
-[![Watch the video](https://i9.ytimg.com/vi/Z3XuBEF8mmc/mq2.jpg?sqp=CMTujpQG&rs=AOn4CLD9tFc11-kG0OawS9jdy_yyzLG89A)](https://youtu.be/vt5fpE0bzSY))
+[![Watch the video](https://i9.ytimg.com/vi/Z3XuBEF8mmc/mq2.jpg?sqp=CMTujpQG&rs=AOn4CLD9tFc11-kG0OawS9jdy_yyzLG89A)](https://youtu.be/Z3XuBEF8mmc)
 
 
 ## I hope you enjoy exploring the project as much as I do working on it. It would be an absolute pleasure to have the opportunity to become and employee for your company and I look forward to becoming a valuable asset. 
