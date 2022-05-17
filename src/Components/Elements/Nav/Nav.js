@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import classes from "./Nav.module.css";
 import Card from "../../UI/Card/Card";
 

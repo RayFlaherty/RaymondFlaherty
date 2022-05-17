@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Welcome To My Repo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A few things to get started, if you wish to deploy a local version of the sight, please feel free to clone the repo with https://github.com/RayFlaherty/RaymondFlaherty.git . Once the project is on your local machine, please run 
+'npm start' from the command line. These steps will aid in viewing the code provided. 
 
-## Available Scripts
 
-In the project directory, you can run:
+## Purpose
 
-### `npm start`
+The purpose of this project is to provide myself with a platform to showcase the skills and talents I have developed and will continue to develop through a further pursuit of education. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Current Project
 
-### `npm test`
+The current repo is deployed through Heroku and there are plans to add a back-end to the project later. Currently, you will be able to read through a brief history of my life as well as take a look at some skills I have developed. A couple projects and the GitHub Repos associated to each project are also listed in the "Project" Section.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Future Additions
 
-### `npm run build`
+As my education and skills continue and are sharpened, I have plans to add more features to this project. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Firstly, if you take a look at the Nav.js file you will notice some content has been commented out. I am still learning how to use React and am wanting to add functionality with some links to help navigate the page. So users, in the future, will be able to navigate the project through the nav bar, as well as "Back to Top" buttons that exist in each module. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Secondly, attached to the project is a "Server" folder. Inside, you will find I have created a simple Back-End.  The purpose of this feature will be to showcase my SQL skills as well as developing a CRUD application. My goal for this is to provide a comment section as well as an email form. The Contact Form is already created and rests in the Contact folder in the SRC directory. Now, enjoy the short youtube link below that shows the functionality of the comment section. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[![Watch the video](https://i9.ytimg.com/vi/Z3XuBEF8mmc/mq2.jpg?sqp=CMTujpQG&rs=AOn4CLD9tFc11-kG0OawS9jdy_yyzLG89A)](https://youtu.be/vt5fpE0bzSY))
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## I hope you enjoy exploring the project as much as I do working on it. It would be an absolute pleasure to have the opportunity to become and employee for your company and I look forward to becoming a valuable asset. 

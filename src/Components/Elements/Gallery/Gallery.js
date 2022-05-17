@@ -4,7 +4,7 @@ import "./Gallery.css";
 import photo from "../../../Assets/Images/Headshot.JPG";
 
 const Gallery = (props) => {
-  const {currentNavDisplay} = props;
+ 
   const currentPhoto = {
     name: "Headshot",
     description: "Photo of me working on a retaining wall.",
